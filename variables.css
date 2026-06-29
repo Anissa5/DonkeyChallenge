@@ -1,6 +1,6 @@
 :root {
-  --main-color: #3537b9;
-  --secondary-color: #f79d26;
+  --main-color: blue;
+  --secondary-color: orange;
   --light: rgba(250, 245, 242, 0.938);
   --dark: #14030d;
 
