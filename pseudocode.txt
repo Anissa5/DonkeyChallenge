@@ -3,7 +3,7 @@ prix = 20,14€
 
 anes ← 0
 SI argent > 0 ET prix > 0 ALORS 
-TANT QUE argent >= prix FAIRE 
+  TANT QUE argent >= prix FAIRE 
     argent ← argent - prix 
     anes ← anes + 1
   FIN TANT QUE 
